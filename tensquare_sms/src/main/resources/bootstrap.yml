@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    refresh:
+      refreshable: none
+    config:
+      name: sms
+      profile: dev
+      label: master
+      uri: http://127.0.0.1:12000
