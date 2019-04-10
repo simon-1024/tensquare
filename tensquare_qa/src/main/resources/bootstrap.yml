@@ -6,4 +6,4 @@ spring:
       name: qa
       profile: dev
       label: master
-      uri: http://127.0.0.1:12000
+      uri: http://192.168.25.130:12000
